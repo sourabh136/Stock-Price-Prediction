@@ -1,4 +1,4 @@
-#importing all the libraries reuired
+#importing all the libraries required
 
 import streamlit as st
 from datetime import date
